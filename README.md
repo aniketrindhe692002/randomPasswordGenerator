@@ -1,4 +1,4 @@
-## React + Vite
+# React + Vite
 
 if vite+react is not install then run - <br>
 <b><i>npm create vite@latest</i></b>
