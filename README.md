@@ -6,7 +6,7 @@ if vite+react is not install then run - <br>
 
 to Run these code you need to install node_modules first using - <br>
 
-<b><i>cd backgroundColorChanger</i></b> // Locate to the Project Folder
+<b><i>cd backgroundColorChanger</i></b> // Locate to the Project Folder<br>
 <b><i>npm install</i></b>
 
 to run these code run -
