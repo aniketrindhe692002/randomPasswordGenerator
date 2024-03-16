@@ -12,3 +12,6 @@ to Run these code you need to install node_modules first using - <br>
 to run these code run -
 
 <b><i>npm run dev</i></b>
+
+
+![Screenshot 2024-03-16 at 4 41 42 PM](https://github.com/aniketrindhe692002/randomPasswordGenerator/assets/102817451/70462a6a-26b4-4151-b3e0-4caf485fb4b1)
